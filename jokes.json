@@ -1,0 +1,17 @@
+[
+  {
+    "setup": "Ja w sprawie pumy",
+    "expected": "jakiej pumy",
+    "punchline": "Takiej co ma jaja z gumy"
+  },
+  {
+    "setup": "Wiesz co się stało w Barcelonie?",
+    "expected": "co",
+    "punchline": "Chłop zawisł jajami na dzwonie"
+  },
+  {
+    "setup": "Ja w sprawie borsuka",
+    "expected": "jakiego borsuka",
+    "punchline": "Co jajami stuka"
+  }
+]
