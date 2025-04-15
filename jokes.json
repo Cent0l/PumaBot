@@ -13,5 +13,112 @@
     "setup": "Ja w sprawie borsuka",
     "expected": "jakiego borsuka",
     "punchline": "Co jajami stuka"
-  }
+  },
+    {
+    "setup": "Idziesz na zawody?",
+    "expected": "jakie zawody",
+    "punchline": "W wyciąganiu siura z wody"
+  },
+  {
+    "setup": "Ja w sprawie liści",
+    "expected": "jakich liści",
+    "punchline": "Tych co się nimi tyłek czyści!"
+  },
+  {
+  "setup": "Zadzwoń do Kasi",
+  "expected": "jakiej Kasi",
+  "punchline": "Co w burdelu światła gasi"
+  },
+  {
+  "setup": "Masz te klucze?",
+  "expected": "jakie klucze",
+  "punchline": "Te co się nimi jaja tłucze"
+  },
+  {
+  "setup": "Powiedz Szafa",
+  "expected": "szafa",
+  "punchline": "Twoja stara jest żyrafa"
+  },
+  {
+  "setup": "Idziesz z nami?",
+  "expected": "gdzie",
+  "punchline": "Srać pod drzwiami"
+  },
+  {
+  "setup": "Pozdrów Leszka.",
+  "expected": "jakiego leszka",
+  "punchline": "Co w Zbąszynku mieszka"
+  },
+  {
+  "setup": "Wiesz co się stało w Ostrołęce?",
+  "expected": "co",
+  "punchline": "Chłop chłopu nasrał na ręce"
+  },
+  {
+  "setup": "Wiesz co się stało pod legnicą?",
+  "expected": "co",
+  "punchline": "Chłop się zesrał jajecznicą"
+  },
+  {
+    "setup": "Byłeś/aś na teście?",
+    "expected": "jakim tescie",
+    "punchline": "maczania jaj w azbeście"
+  },
+  {
+  "setup": "Masz pozdrowienia od Ziutka",
+  "expected": "jakiego ziutka",
+  "punchline": "Tego co trzymał cię za fiutka"
+  },
+    {
+  "setup": "Masz pozdrowenia od Albiego",
+  "expected": "jakiego albiego",
+  "punchline": "Co ma chuja poteznego"
+  },
+  {
+  "setup": "Masz pozdrowienia od Marcela",
+  "expected": "jakiego Marcela",
+  "punchline": "co w burdelach chustki zbiera"
+  },
+  {
+  "setup": "Pozdrawia Cię Peter",
+  "expected": "jaki peter",
+  "punchline": "Ten co ma chuja aż na meter"
+  },
+  {
+  "setup": "Widziałeś ten projekt ustawy?",
+  "expected": "jakiej ustawy",
+  "punchline": "Zlizywania gówna z trawy"
+  },
+  {
+  "setup": "To jest ostatnia szansa",
+  "expected": "na co",
+  "punchline": "Na wyruchanie szympansa"
+  },
+  {
+  "setup": "Co myślisz o wczorajszej sytuacji?",
+  "expected": "jakiej sytuacji",
+  "punchline": "Tej co cię menel całował na stacji"
+},
+{
+  "setup": "Podpisałeś wczoraj listę?",
+  "expected": "jaką listę",
+  "punchline": "Że masz jaja czyste"
+},
+{
+  "setup": "Wiecie co się stało w Zgierzu?",
+  "expected": "co",
+  "punchline": "Chłop się zesrał na talerzu"
+},
+{
+  "setup": "Masz pozdrowienia od Stachy",
+  "expected": "jakiej stachy",
+  "punchline": "Co ma dupę z blachy"
+},
+{
+  "setup": "Byłeś na prezentacji?",
+  "expected": "jakiej prezentacji",
+  "punchline": "Twojego gówna w ubikacji"
+}
+
+
 ]
