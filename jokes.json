@@ -21,7 +21,7 @@
   },
   {
     "setup": "Ja w sprawie liści",
-    "expected": "jakich",
+    "expected": "jakich liści",
     "punchline": "Tych co się nimi tyłek czyści!"
   },
   {
@@ -37,7 +37,7 @@
   {
   "setup": "Powiedz Szafa",
   "expected": "szafa",
-  "punchline": "Twoja stara to żyrafa"
+  "punchline": "Twoja stara jest żyrafa"
   },
   {
   "setup": "Idziesz z nami?",
@@ -60,9 +60,9 @@
   "punchline": "Chłop się zesrał jajecznicą"
   },
   {
-  "setup": "Byłeś/aś na teście?",
-  "expected": "jakim",
-  "punchline": "maczania jaj w azbeście"
+    "setup": "Byłeś/aś na teście?",
+    "expected": "jakim tescie",
+    "punchline": "maczania jaj w azbeście"
   },
   {
   "setup": "Masz pozdrowienia od Ziutka",
@@ -86,12 +86,12 @@
   },
   {
   "setup": "Widziałeś ten projekt ustawy?",
-  "expected": "ustawy",
+  "expected": "jakiej ustawy",
   "punchline": "Zlizywania gówna z trawy"
   },
   {
   "setup": "To jest ostatnia szansa",
-  "expected": "co",
+  "expected": "na co",
   "punchline": "Na wyruchanie szympansa"
   },
   {
@@ -101,7 +101,7 @@
 },
 {
   "setup": "Podpisałeś wczoraj listę?",
-  "expected": "jaka liste",
+  "expected": "jaką listę",
   "punchline": "Że masz jaja czyste"
 },
 {
@@ -111,13 +111,14 @@
 },
 {
   "setup": "Masz pozdrowienia od Stachy",
-  "expected": "stachy",
+  "expected": "jakiej stachy",
   "punchline": "Co ma dupę z blachy"
 },
 {
   "setup": "Byłeś na prezentacji?",
-  "expected": " prezentacji",
+  "expected": "jakiej prezentacji",
   "punchline": "Twojego gówna w ubikacji"
-},
+}
+
 
 ]
