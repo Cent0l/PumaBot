@@ -7,7 +7,7 @@ import re
 server = 'irc.chat.twitch.tv'
 port = 6667
 nickname = 'KoxPumaBot'
-token = 'oauth:2vhl3vowajgi5ymf3xp7x4vj0vgvb8'
+token = twojtoken
 channel = '#twojkanal'
 
 with open('jokes.json', 'r', encoding='utf-8') as f:
